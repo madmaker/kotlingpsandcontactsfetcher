@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KotlinFetchingContacts.iml" filepath="$PROJECT_DIR$/KotlinFetchingContacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/KotlinFetchingContacts-app.iml" filepath="$PROJECT_DIR$/app/KotlinFetchingContacts-app.iml" group="KotlinFetchingContacts/app" />
+      <module fileurl="file://$PROJECT_DIR$/Projects-KotlinFetchingContacts.iml" filepath="$PROJECT_DIR$/Projects-KotlinFetchingContacts.iml" group="KotlinFetchingContacts" />
+      <module fileurl="file://$PROJECT_DIR$/app/Projects-KotlinFetchingContacts-app.iml" filepath="$PROJECT_DIR$/app/Projects-KotlinFetchingContacts-app.iml" group="KotlinFetchingContacts/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

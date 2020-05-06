@@ -1,2 +1,3 @@
-# KotlinFetchingContacts
-How to get contacts list from device in kotlin
+- app/src/main/AndroidManifest.xml - Манифест приложения
+- layout/activity_main.xml - главный экран
+- app/src/main/java/com/mobiledev/contacts/MainActivity.kt - Основной код
